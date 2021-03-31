@@ -1,0 +1,5 @@
+Add the "get smoke grenade launcher.lua" file to script/addins you will need to have lua plugin
+Replace "weaponanimations.meta" and 'weapons.meta" at GTAV/update/update.rpf/common/data/ai
+Go to update/update.rpf/x64/data/metadata
+and there replace explosion.ymt
+To get the launcher you have to press "N".If you go to weapon wheel the smoke grenade launcher will disapear and to get it back press again "N"
